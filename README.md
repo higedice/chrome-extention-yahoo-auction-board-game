@@ -10,7 +10,7 @@ How to Install
 This is for developers.
 Use this way.
 
--https://developer.chrome.com/extensions/getstarted#unpacked
+ * https://developer.chrome.com/extensions/getstarted#unpacked
 
 
 HigeDice http://d.hatena.ne.jp/higedice/
